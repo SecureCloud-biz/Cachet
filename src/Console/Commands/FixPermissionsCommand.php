@@ -42,8 +42,8 @@ class FixPermissionsCommand extends Command
     /**
      * Recursively sets a paths file permissions.
      *
-     * @param  string $path
-     * @param  string $mode
+     * @param string $path
+     * @param string $mode
      *
      * @return void
      */
